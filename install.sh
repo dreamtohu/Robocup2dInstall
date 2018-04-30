@@ -14,7 +14,12 @@ sudo apt-get install -y libqt4-dev libxpm-dev libaudio-dev libxt-dev libpng-dev 
 sudo apt-get install -y nautilus-open-terminal
 
 
-#将lib添加到搜索路径
+cd  ./2d_software_package
+sudo sh  install.sh
+
+
+
+#将lib添加到搜索
 
 sudo echo "include /etc/ld.so.conf.d/*.conf
 /usr/lib
