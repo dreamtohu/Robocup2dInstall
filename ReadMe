@@ -2,3 +2,6 @@
 快速安装：
 wget -qO- https://raw.githubusercontent.com/drdeng/Robocup2dInstall/master/setup.sh | sh -x
 
+try:
+wget -qO- https://codeload.github.com/dreamtohu/Robocup2dInstall/zip/master/setup.sh |sh -x
+
